@@ -1,0 +1,9 @@
+{
+  "name": "GlobeSIM",
+  "short_name": "GlobeSIM",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#101b35",
+  "description": "Travel data made simple."
+}
